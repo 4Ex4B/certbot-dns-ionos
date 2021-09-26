@@ -1,0 +1,5 @@
+.idea
+certs
+!certs/.gitkeep
+.DS_Store
+.env
